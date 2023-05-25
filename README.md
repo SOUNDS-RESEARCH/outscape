@@ -13,7 +13,7 @@ This is purely for educational purposes and we give no guarantee on a bug-free e
 You should then find the app on your quest, however you might need to set the filter to allow "Unknown Sources".
 
 ## SOUNDS
-This research work was carried out as part of the SOUNDS European Training Network.
+This work was carried out as part of the SOUNDS European Training Network.
 
 [SOUNDS Website](https://www.sounds-etn.eu/)
 
