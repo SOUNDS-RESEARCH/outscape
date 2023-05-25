@@ -1,4 +1,4 @@
-This is the demo which was playable at the "Science is Wonderful" expo, 16 and 17 March 2023 at the Maison de la Poste, Brussels.
+This is the "Outscape" demo which was playable at the "Science is Wonderful" expo, 16 and 17 March 2023 at the Maison de la Poste, Brussels.
 This is purely for educational purposes and we give no guarantee on a bug-free experience :)
 
 ### Installation instructions:
