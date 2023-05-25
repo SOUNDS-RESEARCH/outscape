@@ -4,7 +4,7 @@ This is purely for educational purposes and we give no guarantee on a bug-free e
 
 ### Installation instructions:
 
-1. Download SiW.rar and unpack.
+1. Download SiW.rar from the latest release and unpack.
 2. Install "[Sidequest Advanced Installer](https://sidequestvr.com/setup-howto)"
 3. Connect Meta Quest
 4. in "Sidequest Advanced Installer" use "Install APK file from folder on computer"
